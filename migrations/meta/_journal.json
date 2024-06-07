@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717772342099,
+      "tag": "0000_known_inertia",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717773109192,
+      "tag": "0001_parched_anita_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1717774941063,
+      "tag": "0002_watery_forgotten_one",
+      "breakpoints": true
+    }
+  ]
+}
